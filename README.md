@@ -72,6 +72,8 @@ The IP configured for OpnSense Firewall is configured and provided with an IP ad
 username: root and Password: New Password : The GUI show we are accessing the FW
 Screenshot
 
+Please check the video reference for more details: https://youtu.be/JRgVbA_mCDQ?list=PLjjkJroii8DDb0QZpWLo978VXcLp8-xW3
+
 
 
  
